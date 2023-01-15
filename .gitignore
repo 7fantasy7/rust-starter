@@ -1,0 +1,14 @@
+*.iml
+.idea
+/target
+
+/requests
+/benches
+/db
+
+dhat-heap.json
+Cargo.lock
+
+.env
+readme.txt
+*.lua
